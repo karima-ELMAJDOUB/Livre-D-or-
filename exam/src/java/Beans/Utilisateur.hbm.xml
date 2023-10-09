@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<!-- Generated 28 d?c. 2022 08:40:31 by Hibernate Tools 4.3.1 -->
+<hibernate-mapping>
+    <class name="Beans.Utilisateur" table="utilisateur" catalog="bd_ds" optimistic-lock="version">
+        <id name="pseudo" type="string">
+            <column name="Pseudo" length="45" />
+            <generator class="assigned" />
+        </id>
+        <property name="nom" type="string">
+            <column name="Nom" length="45" not-null="true" />
+        </property>
+        <property name="prenom" type="string">
+            <column name="Prenom" length="45" not-null="true" />
+        </property>
+        <property name="motDePasse" type="string">
+            <column name="MotDePasse" length="45" not-null="true" />
+        </property>
+    </class>
+</hibernate-mapping>

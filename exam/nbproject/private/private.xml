@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/exam/web/Accueil.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/exam/src/java/Beans/Messages.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/exam/src/java/DAO/UtilisateurDAO.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/exam/src/java/DAO/MessagesDAO.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/exam/src/java/Servlet/CreerUtilisateur.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/exam/src/java/Servlet/Identification.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/exam/web/CreerUtilisateur.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/exam/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/exam/src/java/metier/IUtilisateur.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/exam/web/Identification.jsp</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/exam/src/java/Servlet/Accueil.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/exam/src/java/Beans/Utilisateur.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/exam/src/java/metier/IMessages.java</file>
+        </group>
+    </open-files>
+</project-private>
